@@ -23,6 +23,7 @@
 </div>
 
 <br><br>
+<div align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=helobotelho&show_icons=true&theme=ocean_dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helobotelho&layout=compact&theme=ocean_dark)](https://github.com/anuraghazra/github-readme-stats)
