@@ -3,7 +3,7 @@
 - Apaixonada pela área de Front-End e UX/UI Design 💜
 - Atualmente estudante de Sistemas para Internet na FIAP 🤓
 
-<img align="right" alt="Helo" height="200" src="https://media.discordapp.net/attachments/823742737962500106/1098317093839061117/Group_3.png?width=665&height=676">
+<img align="right" alt="Helo" height="180" src="https://media.discordapp.net/attachments/823742737962500106/1098317093839061117/Group_3.png?width=665&height=676">
 <div style="display: flex">
 
 <div style="display: inline_block"><br>
