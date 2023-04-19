@@ -22,7 +22,7 @@
    <a href="https://www.behance.net/heloisabotelho" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"></a> 
 </div>
 
-<br>
+<br><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=helobotelho&show_icons=true&theme=ocean_dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helobotelho&layout=compact&theme=ocean_dark)](https://github.com/anuraghazra/github-readme-stats)
